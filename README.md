@@ -1,2 +1,2 @@
 # Java_programming_project
-I developed this portfolio website using java programming framework. 
+I developed this project website using java programming framework. 
